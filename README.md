@@ -1,5 +1,6 @@
 <p>
-  # Gold and silver price checker
+
+# Gold and silver price checker
 
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -32,6 +33,6 @@ Then type:
 cd../
 python calc.py
 ```
-You can see all commands by typing 'help' in the console#
+You can see all commands by typing 'help' in the console
 </p>
 
