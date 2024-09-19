@@ -1,6 +1,6 @@
 <p>
 
-# Gold and silver price checker
+# Number Systems converter
 
 * [General info](#general-info)
 * [Technologies](#technologies)
